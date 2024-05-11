@@ -61,7 +61,7 @@ $data = mysqli_fetch_array($sql);
 				
 				<a href="dashboard.php" class="logo">
 					<!-- <img src="../assets/img/mts.png" alt="navbar brand" class="navbar-brand" width="40"> -->
-					<b class="text-white">MTs NEGERI PATI</b>
+					<b class="text-white">MTsN 4 Madiun</b>
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
@@ -573,7 +573,7 @@ $data = mysqli_fetch_array($sql);
 		<footer class="footer">
 				<div class="container">
 					<div class="copyright ml-auto">
-						&copy; <?php echo date('Y');?> Absensi MTs Negeri Pati (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
+						&copy; <?php echo date('Y');?> Absensi MTsN 4 Madiun (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
 					</div>				
 				</div>
 			</footer>

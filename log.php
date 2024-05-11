@@ -47,7 +47,7 @@ include 'config/db.php';
                 <div class="logo-header" data-background-color="blue2">
 
                     <a href="index.php">
-                        <img src="assets/img/mts.png" alt="navbar brand" class="navbar-brand" width="40">
+                        <img src="assets/img/logomts.png" alt="navbar brand" class="navbar-brand" width="40">
                         <b class="text-white">Presensi Siswa</b>
                     </a>
                 </div>
@@ -63,7 +63,7 @@ include 'config/db.php';
                         <div class="page-inner py-5">
                             <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row">
                                 <div>
-                                    <h2 class="text-white pb-2 fw-bold">MTs INSAN KREASI</h2>
+                                    <h2 class="text-white pb-2 fw-bold">MTsN 4 Madiun</h2>
                                     <!-- <h5 class="text-white op-7 mb-2">Absen Lebih mudah gunakan Aplikasi Absensi</h5> -->
                                 </div>
                                 <div class="ml-md-auto py-2 py-md-0">

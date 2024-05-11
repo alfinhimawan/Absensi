@@ -41,10 +41,10 @@ include 'config/db.php';
                 <form method="post" action="" class="login100-form validate-form">
                     <span class="login100-form-title p-b-48">
                         <!-- <i class="zmdi zmdi-font"></i> -->
-                        <img src="./assets/img/logo1.png" width="100">
+                        <img src="./assets/img/logomts.png" width="100">
                     </span>
                     <span class="login100-form-title p-b-26">
-                        MTs NEGERI PATI
+                        MTsN 4 Madiun
                     </span>
 
                     <div class="wrap-input100 validate-input">
@@ -67,7 +67,7 @@ include 'config/db.php';
                             <option value="1">Guru</option>
                             <option value="2">Siswa</option>
                             <option value="3">Kepala Sekolah</option>
-                            <option value="4">Wali Kelas</option>
+                            <!-- <option value="4">Wali Kelas</option> -->
                         </select>
                     </div>
                     <br>
@@ -81,9 +81,9 @@ include 'config/db.php';
                         </div>
                     </div>
 
-                    <div class="container-login100-form-btn">
+                    <!-- <div class="container-login100-form-btn">
 						Reposted by <a href="https://valcoding.com" target="_blank" style="display: inline-block;text-align: center;margin-left: 5px;">Valcoding.com</a>
-					</div>
+					</div> -->
 
 
                 </form>

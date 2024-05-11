@@ -84,19 +84,19 @@ $tglTerakhir = 25;
  <table width="100%">
  	<tr>
  		<td>
- 			<img src="../../../assets/img/mts.png" width="130">
+ 			<img src="../../../assets/img/logomts.png" width="130">
  		</td>
  		<td>
  			<center>
  				
  				<h1>
  					ABSESNSI SISWA <br>
- 					<small> MTs INSAN KREASI</small>
+ 					<small> MTsN 4 Madiun</small>
  				</h1>
  				<hr>
  				<em>
- 					Jl. Parung Panjang - Tenjo RT 01 / RW 07, Batok, Tenjo, Batok, Kec. Tenjo,<br> Bogor, Jawa Barat, Kode Pos (16370) <br>
- 				<b>Email : mtsinsanikreasi@gmail.com Telp.081234567890</b> 
+				 Sewulan Wetan, Sewulan, Kec. Dagangan, Kabupaten Madiun, Jawa Timur 63172
+	<br><b>Email : mtsn.sewulan@yahoo.com Telp.0351 - 367189</b>
  				</em>
  	
  			</center>
@@ -339,7 +339,7 @@ echo $cabut['cabut'];
 		</td> -->
 		<td align="right">
 			<p>
-				Agam, <?php echo date('d-F-Y'); ?>
+				Madiun, <?php echo date('d-F-Y'); ?>
 			</p>
 			<p>
 				Kepala Sekolah
@@ -348,9 +348,9 @@ echo $cabut['cabut'];
 				<br>
 				<br>
 				<br>
-				KHOLIS SANTOSO, MA <br>
+				Sahabat Jannah Team, MA <br>
 				----------------------<br>
-				NIP.197411092002102003
+				NIP.1111111111111
 			</p>
 		</td>
 	</tr>

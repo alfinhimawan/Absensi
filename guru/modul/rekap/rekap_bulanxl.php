@@ -53,12 +53,12 @@ $tglTerakhir = date('t',strtotime($tglBulan));
  				
  				<h1>
  					ABSESNSI SISWA <br>
- 					<small> MTs NEGERI 1 AGAM</small>
+ 					<small> MTsN 4 Madiun</small>
  				</h1>
  				<hr>
  				<em>
- 					Jl.Bukit Bunian Jorong Bukareh Kenagarian Koto Tangah Kecamatan Tilatang,<br> Kamang Kabupaten Agam, Provinsi Sumatera Barat, Kode Pos (26152) <br>
- 				<b>Email : mtsnbukitbunianbukareh@yahoo.com Telp.081266005679</b> 
+				 Sewulan Wetan, Sewulan, Kec. Dagangan, Kabupaten Madiun, Jawa Timur 63172
+	<br><b>Email : mtsn.sewulan@yahoo.com Telp.0351 - 367189</b>
  				</em>
  	
  			</center>

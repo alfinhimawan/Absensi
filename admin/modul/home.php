@@ -19,15 +19,15 @@
 								<div class="card-body">
 									<div class="card-title">
 										<center>
-											<img src="../assets/img/logo1.png" width="100">
+											<img src="../assets/img/logomts.png" width="100">
 											<br>
-											<b>MTs NEGERI PATI</b>
+											<b>MTsN 4 Madiun </b>
 										</center>
 									</div>
 									<div class="card-category">
 										<center>
-Jl. Winong - Pucakwangi Km 01 Kec. Winong Kab. Pati Kode Pos 59181
-	<br>Email : mtsnegeripati@gmail.com Telp.081222333444
+										Sewulan Wetan, Sewulan, Kec. Dagangan, Kabupaten Madiun, Jawa Timur 63172
+	<br>Email : mtsn.sewulan@yahoo.com Telp.0351 - 367189
 										</center>
 									</div>
 								

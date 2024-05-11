@@ -300,7 +300,7 @@ WHERE tb_mengajar.id_guru='$data[id_guru]' AND tb_thajaran.status=1 ");
 		<footer class="footer">
 				<div class="container">
 					<div class="copyright ml-auto">
-						&copy; <?php echo date('Y');?> Absensi MTs Negeri Pati (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
+						&copy; <?php echo date('Y');?> Absensi MTsN 4 Madiun (<a href="index.php">Sahabat Jannah </a> | 2024)
 					</div>				
 				</div>
 			</footer>
