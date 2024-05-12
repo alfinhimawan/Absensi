@@ -36,7 +36,7 @@ include 'config/db.php';
 <body >
 
     <div class="limiter">
-        <div class="container-login100" style="height: 100vh;overflow: hidden;background-image: url('./assets/img/bgdark.jpg');background-size: cover;">
+        <div class="container-login100" style="height: 100%;overflow: hidden;background-image: url(http://mtsn4madiun.sch.id/media_library/posts/large/7a42fedd026d52e63d406ec629dba751.jpeg );background-size: cover;">
             <div class="wrap-login100">
                 <form method="post" action="" class="login100-form validate-form">
                     <span class="login100-form-title p-b-48">
@@ -63,10 +63,10 @@ include 'config/db.php';
                         <!-- <input class="input100" type="text" name="username">
 						<span class="focus-input100" data-placeholder="Username"></span> -->
                         <select class="form-control" name="level">
-                            <option>Level</option>
+                            <option>Role</option>
                             <option value="1">Guru</option>
-                            <option value="2">Siswa</option>
-                            <option value="3">Kepala Sekolah</option>
+                            <option value="2">Orang Tua</option>
+                            <!-- <option value="3">Kepala Sekolah</option> -->
                             <!-- <option value="4">Wali Kelas</option> -->
                         </select>
                     </div>

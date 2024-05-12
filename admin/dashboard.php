@@ -32,7 +32,7 @@ $data = mysqli_fetch_array($sql);
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Administrator | Aplikasi Absensi</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
-	<link rel="icon" href="../assets/img/icon.ico" type="image/x-icon"/>
+	<link rel="icon" href="../assets/img/logomts.png" type="image/x-icon"/>
 
 	<!-- Fonts and icons -->
 	<script src="../assets/js/plugin/webfont/webfont.min.js"></script>
@@ -247,7 +247,7 @@ $data = mysqli_fetch_array($sql);
 							</div>
 						</li>
 
-						<li class="nav-item">
+						<!-- <li class="nav-item">
 							<a data-toggle="collapse" href="#kepsek">
 								<i class="fas fa-user-tie"></i>
 								<p>Data Kepala Sekolah</p>
@@ -267,7 +267,7 @@ $data = mysqli_fetch_array($sql);
 									</li>
 								</ul>
 							</div>
-						</li>
+						</li> -->
 				
 						<li class="nav-item">
 							<a data-toggle="collapse" href="#guru">
@@ -314,7 +314,7 @@ $data = mysqli_fetch_array($sql);
 						</li>
 
 
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 							<a data-toggle="collapse" href="#rekapAbsen">
 								<i class="fas fa-list-alt"></i>
 								<p>Rekap Absen</p>
@@ -333,7 +333,7 @@ $data = mysqli_fetch_array($sql);
 								<?php } ?>
 								</ul>
 							</div>
-						</li>
+						</li> -->
 						<li class="nav-item active mt-3">
 							<a href="logout.php" class="collapsed">
 								<i class="fas fa-arrow-alt-circle-left"></i>
@@ -573,7 +573,7 @@ $data = mysqli_fetch_array($sql);
 		<footer class="footer">
 				<div class="container">
 					<div class="copyright ml-auto">
-						&copy; <?php echo date('Y');?> Absensi MTsN 4 Madiun (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
+						&copy; <?php echo date('Y');?> Absensi MTsN 4 Madiun (<a href="index.php">Sahabat Jannah </a> | 2024)
 					</div>				
 				</div>
 			</footer>

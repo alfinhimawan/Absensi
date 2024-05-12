@@ -81,7 +81,7 @@ foreach ($walikelas as $walas)
 	<p class="text-info"> H = Hadir</p>
 	<p class="text-success"> I = Izin</p>
 	<p class="text-warning"> S = Sakit</p>
-	<p class="text-danger"> A = Absesn</p>
+	<p class="text-danger"> A = Absen</p>
 </td>
   </tr>
   <tr>

@@ -79,11 +79,10 @@ $tglTerakhir = date('t',strtotime($tglBulan));
     <td rowspan="5">
     	<ul>
     		<li>H= Hadir</li>
+			<li>I = Izin</li>
     		<li>S = Sakit</li>
-    		<li>I = Izin</li>
+			<li>A = Alpha</li>
     		<li>T = Terlambat</li>
-    		<li>A = Absen</li>
-    		<li>C = Cabu</li>
     	</ul>
 <!-- <p>H= Hadir</p>
 <p>I = Izin</p>
@@ -135,11 +134,10 @@ $tglTerakhir = date('t',strtotime($tglBulan));
 
 
 	?> 
-	<td bgcolor="#FFC107" align="center">S</td>
 	<td bgcolor="#4CAF50" align="center">I</td>
+	<td bgcolor="#FFC107" align="center">S</td>
 	<td bgcolor="#D50000" align="center">A</td>
 	<td bgcolor="#76FF03" align="center">T</td>
-	<td bgcolor="#9C27B0" align="center">C</td>
  
   </tr>
   	<?php 
@@ -176,13 +174,10 @@ $tglTerakhir = date('t',strtotime($tglBulan));
 				echo "<b style='color:#4CAF50;'>I</b>";
 			}elseif ($h['ket']=='S') {
 				echo "<b style='color:#FFC107;'>S</b>";
-			}elseif($h['ket']=='A'){
-				echo "<b style='color:#D50000;'>A</b>";
 			}elseif ($h['ket']=='T') {
 				echo "<b style='color:#76FF03;'>T</b>";
-			}
-			else{
-				echo "<b style='color:#9C27B0;'>C</b>";
+			}elseif($h['ket']=='A'){
+				echo "<b style='color:#D50000;'>A</b>";
 			}
 			
 		

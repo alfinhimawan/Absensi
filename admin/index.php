@@ -70,7 +70,7 @@ include '../config/db.php';
 					</div>
 
 					<div class="container-login100-form-btn">
-						Reposted by <a href="https://valcoding.com" target="_blank" style="display: inline-block;text-align: center;margin-left: 5px;">Valcoding.com</a>
+						Created by <a href="#" target="_blank" style="display: inline-block;text-align: center;margin-left: 5px;">Sahabat Jannah</a>
 					</div>
 
 
