@@ -216,11 +216,11 @@ $data = mysqli_fetch_array($sql);
 											<span class="sub-item">Mata Pelajaran</span>
 										</a>
 									</li>
-									<li>
+									<!-- <li>
 										<a href="?page=walas">
 											<span class="sub-item"> Wali Kelas </span>
 										</a>
-									</li>
+									</li> -->
 							
 								</ul>
 							</div>

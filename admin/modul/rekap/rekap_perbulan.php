@@ -99,11 +99,11 @@ foreach ($walikelas as $walas)
     <td>:</td>
     <td><?=$d['mapel'] ?></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Wali Kelas </td>
     <td>:</td>
     <td><?=$walas['nama_guru'] ?></td>
-  </tr>
+  </tr> -->
 </table>
  		</td>
  	</tr>
