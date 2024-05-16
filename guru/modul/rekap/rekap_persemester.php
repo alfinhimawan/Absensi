@@ -121,7 +121,7 @@ $tglTerakhir = 25;
     		<li>I = Izin</li>
     		<li>T = Terlambat</li>
     		<li>A = Absen</li>
-    		<li>C = Cabut</li>
+    		<!-- <li>C = Cabut</li> -->
     	</ul>
 	<!-- <p>H= Hadir</p>
 	<p>I = Izin</p>

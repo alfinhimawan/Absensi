@@ -153,11 +153,11 @@ foreach ($kelasMengajar as $d)
 
 
 
-                                        <label class="form-check-label">
+                                        <!-- <label class="form-check-label">
                                             <input name="ket-<?=$i;?>" class="form-check-input" type="checkbox"
                                                 value="C" <?php if ($s['ket']=='C') { echo"checked";}?>>
                                             <span class="form-check-sign">C</span>
-                                        </label>
+                                        </label> -->
 
 
 
